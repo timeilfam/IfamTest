@@ -1,0 +1,2 @@
+key fingerprint    ssh-rsa 2048 32:63:24:49:d9:4e:17:2c:2b:5e:cb:cd:93:c5:21:d4
+key comment        rsa-key-20180605
